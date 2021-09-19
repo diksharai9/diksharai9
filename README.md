@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diksha Rai</h1>
-###  A CSE sophomore.I love to convert my thoughts in to code.
+### A CSE sophomore.I love to convert my thoughts in to code.
 ### I read ...I think....and I code....
 - 🔭 I’m currently working on ...Scientify(an educational project).
 - - 😄 Pronouns: ...(She/Her)
