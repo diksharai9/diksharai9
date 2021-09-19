@@ -1,6 +1,6 @@
 ## Hi there 👋
-###I am Diksha Rai, a CSE sophomore.I love to convert my thoughts in to code.
-###I read ...I think....and I code....
+### I am Diksha Rai, a CSE sophomore.I love to convert my thoughts in to code.
+### I read ...I think....and I code....
 - 🔭 I’m currently working on ...Scientify(an educational project).
 - - 😄 Pronouns: ...(She/Her)
 
