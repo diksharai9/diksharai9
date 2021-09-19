@@ -11,8 +11,9 @@
 
 
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&show_icons=true&theme=radical)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&layout=compact&show_icons=true&theme=radical)
 ](https://github.com/diksharai9/github-readme-stats)
+
 
 
 <!--
