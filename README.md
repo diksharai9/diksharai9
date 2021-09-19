@@ -3,7 +3,8 @@
 ### I read ...I think....and I code....
 - 🔭 I’m currently working on ...Scientify(an educational project).
 - - 😄 Pronouns: ...(She/Her)
-- [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9)](https://github.com/diksharai9/github-readme-stats)
+- [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)
+](https://github.com/diksharai9/github-readme-stats)
 
 
 
