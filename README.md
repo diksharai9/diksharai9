@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diksha Rai</h1>
+# Hi 👋, I'm Diksha Rai.
 ### A CSE sophomore.I love to convert my thoughts in to code.
 ### I read ...I think....and I code....
 - 🔭 I’m currently working on ...Scientify(an educational project).
