@@ -1,4 +1,4 @@
-# Hi 👋, I'm Diksha Rai.
+# Hi 👋, I'm Diksha.
 ### A CSE sophomore.I love to convert my thoughts in to code.
 ### I read ...I think....and I code....
 - 🔭 I’m currently working on ...Scientify(an educational project).
