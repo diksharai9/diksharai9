@@ -1,12 +1,12 @@
 # Hi 👋, I'm Diksha.
 ### A CSE sophomore.I love to convert my thoughts in to code.
 ### I read ...I think....and I code....
-- 🔭 I’m currently working on ...Scientify(an educational project).
+- 👩‍💻 I’m currently working on ...Scientify(an educational project).
 - ✔ I code in Java, Python, JavaScript, C.
 - ✔ Databases - SQL.
 - ✔ Cloud Services - Heroku, Google Cloud, AWS, Microsoft Azure.
 - ✔ Frameworks/Libraries - Bootstrap, JQuery, React, Node, Flask, Numpy 
-- - 😄 Pronouns: ...(She/Her)
+
 - [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)
 ](https://github.com/diksharai9/github-readme-stats)
 
