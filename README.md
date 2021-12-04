@@ -7,6 +7,11 @@
 - ✔ Cloud Services - Heroku, Google Cloud, AWS, Microsoft Azure.
 - ✔ Frameworks/Libraries - Bootstrap, JQuery, React, Node, Flask, Numpy 
 
+
+
+![](https://komarev.com/ghpvc/?username=diksharai9&color=ff69b4&style=flat)
+
+
 - [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)
 ](https://github.com/diksharai9/github-readme-stats)
 
