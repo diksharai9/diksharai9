@@ -1,5 +1,5 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Diksha.
-### A CSE sophomore. I love to convert my thoughts in to code.
+### A CSE undergrad. I love to convert my thoughts in to code.
 ### I read ...I think....and I code....
 - 👩‍💻 I’m currently working on ...Scientify(an educational project).
 - ✔ I code in Java, Python, JavaScript, C.
