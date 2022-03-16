@@ -1,11 +1,12 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Diksha.
-### A CSE undergrad. I love to convert my thoughts in to code.
+### A CSE sophomore, and a tech enthusiast.
 ### I read ...I think....and I code....
-- 👩‍💻 I’m currently working on ...Scientify(an educational project).
-- ✔ I code in Java, Python, JavaScript, C.
+- 👩‍💻 Working on my Problem Solving skills.
+- ✔ I code in Java, Python, JavaScript, C, C++.
 - ✔ Databases - SQL.
-- ✔ Cloud Services - Heroku, Google Cloud, AWS, Microsoft Azure.
-- ✔ Frameworks/Libraries - Bootstrap, JQuery, React, Node, Flask, Numpy 
+- ✔ Cloud Services - Heroku, Google Cloud, AWS
+- ✔ Frameworks/Libraries - Bootstrap, Django, Flask, Numpy, BeautifulSoup 
+- ✔ Tools - Linux, Git & GitHub
 
 
 
