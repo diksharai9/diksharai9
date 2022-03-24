@@ -1,19 +1,17 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Diksha.
-### A CSE sophomore, and a tech enthusiast.
-### I read ...I think....and I code....
-- 👩‍💻 Working on my Problem Solving skills.
-- ✔ I code in Java, Python, JavaScript, C, C++.
-- ✔ Databases - SQL.
-- ✔ Cloud Services - Heroku, Google Cloud, AWS
-- ✔ Frameworks/Libraries - Bootstrap, Django, Flask, Numpy, BeautifulSoup 
-- ✔ Tools - Linux, Git & GitHub
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Diksha.
+
+ ### 👩‍💻 About Me:
+- I am a sophomore at Banasthali Vidyapith, I am majoring in Computer Science & Engineering. I am currently working on my Problem-Solving skills, I practice on Leetcode using Java, I have built Web Development projects using Python, JavaScript, Flask and Django.
+- I am acquainted  with core Computer Science fundamentals:- Database Management System, Computer Networking, Computer Organisation & Architecture and Object Oriented Programming.
+- I am an open-source enthusiast, and trying to manage my time efficiently in order to actively participate in the community. Sometimes I write blog posts.
 
 
 
 ![](https://komarev.com/ghpvc/?username=diksharai9&color=ff69b4&style=flat)
 
 
-- [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)
+ [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)
+](https://github.com/diksharai9/github-readme-stats)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&layout=compact&show_icons=true&theme=radical)
 ](https://github.com/diksharai9/github-readme-stats)
 
 
@@ -21,9 +19,9 @@
 
 
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&layout=compact&show_icons=true&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&layout=compact&show_icons=true&theme=radical)
 ](https://github.com/diksharai9/github-readme-stats)
-
+ -->
 
 
 <!--
