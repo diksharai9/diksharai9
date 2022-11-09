@@ -1,7 +1,7 @@
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Diksha.
 
  ### 👩‍💻 About Me:
-- I am a sophomore at Banasthali Vidyapith, I am majoring in Computer Science & Engineering. I am currently working on my Problem-Solving skills, I practice on Leetcode using Java, I have built Web Development projects using Python, JavaScript, Flask, and Django.
+- I am a junior at Banasthali Vidyapith, I am majoring in Computer Science & Engineering. I am currently working on my Problem-Solving skills, I practice on Leetcode using Java, I have built Web Development projects using Python, JavaScript, Flask, and Django.
 - I am acquainted with core Computer Science fundamentals:- Database Management System, Computer Networking, Computer Organisation & Architecture, and Object-Oriented Programming.
 - I am an open-source enthusiast, and trying to manage my time efficiently in order to actively participate in the community. Sometimes I write blog posts.
 
