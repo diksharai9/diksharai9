@@ -16,7 +16,7 @@ I actively create and share content on my **YouTube channel [@the_qubits](https:
 ![](https://komarev.com/ghpvc/?username=diksharai9&color=blueviolet&style=flat)
 
 [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)](https://github.com/diksharai9/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksarai9&layout=compact&show_icons=true&theme=radical)](https://github.com/diksharai9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&layout=compact&show_icons=true&theme=radical)](https://github.com/diksharai9/github-readme-stats)
 
 ---
 
