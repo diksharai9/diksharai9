@@ -1,40 +1,31 @@
-# Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Diksha.
+# Hi there, I'm Diksha Rai 👋
 
- ### 👩‍💻 About Me:
-- I am a junior at Banasthali Vidyapith, I am majoring in Computer Science & Engineering. I am currently working on my Problem-Solving skills, I practice on Leetcode using Java, I have built Web Development projects using Python, JavaScript, Flask, and Django.
-- I am acquainted with core Computer Science fundamentals:- Database Management System, Computer Networking, Computer Organisation & Architecture, and Object-Oriented Programming.
-- I am an open-source enthusiast, and trying to manage my time efficiently in order to actively participate in the community. Sometimes I write blog posts.
+### 💻 Software Engineer | Python Developer | Tech Content Creator
 
+---
 
+### 🧑‍💼 About Me
 
-![](https://komarev.com/ghpvc/?username=diksharai9&color=ff69b4&style=flat)
+I'm a Machine Learning enthusiast, currently working as a **Software Engineer I** at **JPMorgan Chase & Co.** I’m passionate about building scalable backend systems, automating workflows, and creating clean, user-centric software using technologies like **Python**, **Java**, **Spring Boot**, and **AWS**.
 
-
- [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)
-](https://github.com/diksharai9/github-readme-stats)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&layout=compact&show_icons=true&theme=radical)
-](https://github.com/diksharai9/github-readme-stats)
+I actively create and share content on my **YouTube channel [@the_qubits](https://www.youtube.com/@the_qubits)** where I break down complex tech topics into beginner-friendly visuals.
 
 
+### 📈 GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=diksharai9&color=blueviolet&style=flat)
 
+[![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksharai9&show_icons=true&theme=radical)](https://github.com/diksharai9/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksarai9&layout=compact&show_icons=true&theme=radical)](https://github.com/diksharai9/github-readme-stats)
 
+---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksharai9&layout=compact&show_icons=true&theme=radical)
-](https://github.com/diksharai9/github-readme-stats)
- -->
+### 🗣️ Let's Connect
 
+- 🔗 LinkedIn: [linkedin.com/in/diksharai9](https://linkedin.com/in/diksharai9)  
+- 🧠 YouTube: [@the_qubits](https://www.youtube.com/@the_qubits)  
+- 💻 GitHub: [github.com/diksharai9](https://github.com/diksharai9)
 
-<!--
-**diksharai9/diksharai9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
+✨ *Always open to new ideas, collaborations, or simply connecting with like-minded engineers!*
