@@ -1,6 +1,6 @@
 # Hi there, I'm Diksha Rai 👋
 
-### 💻 Software Engineer | Python Developer | Tech Content Creator
+### 💻 Software Engineer | Tech Content Creator
 
 ---
 
